@@ -1,2 +1,2 @@
 # sweet-potato
-Just a potato without a recipe
+Just a potato without a recipe. This repository is for practicing the GitHub Flow.
